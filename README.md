@@ -3,7 +3,7 @@
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ana+Julia+👋;Seja+Bem-vindo(a)+ao+meu+perfil+do+github!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%ef3e70&size=20&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Ana+Julia+👋;Seja+Bem-vindo(a)+ao+meu+perfil+do+github!+:%29)
 <br>
 <br>
 
